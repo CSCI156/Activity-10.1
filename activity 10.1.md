@@ -1,6 +1,5 @@
-Activity 10.1
-
 Create a list m = [2, 4, 6, 8].
+
 1. Print the second element in the list.
 2. Create a new list fivem that has the elements 10, 20, 30, 40. Multiply m by 5 for this using a for loop, do NOT just create the list using fivem = [10, 20, 30, 40].
 3. Add 10 to the list m and print m.
